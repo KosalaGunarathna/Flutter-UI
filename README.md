@@ -12,41 +12,11 @@ This is a Flutter-based mobile application that provides a user-friendly registr
   4. **Fingerprint Setup UI**: Optional interface for fingerprint setup.
   5. **Identity Verification UI**: Interface for ID card submission.
   
-- **Custom UI**: Modern and intuitive design focused on ease of use.
-- **Responsive Design**: Optimized for various screen sizes and orientations.
-
-## Installation
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-repo/flutter-registration-ui.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd flutter-registration-ui
-    ```
-
-3. **Install dependencies**:
-    ```bash
-    flutter pub get
-    ```
-
-4. **Run the app**:
-    ```bash
-    flutter run
-    ```
 
 ## Screenshots
 
-Include screenshots of the UI, like the ones you’ve provided.
+
 ![FlutterUi](https://github.com/user-attachments/assets/8b79f496-ea11-4e2e-b7ef-4b47ceacf8c8)
-
-## Requirements
-
-- Flutter SDK
-- Dart SDK
-- Android Studio or Visual Studio Code with Flutter plugins installed
 
 ## How to Use
 
@@ -58,13 +28,6 @@ Include screenshots of the UI, like the ones you’ve provided.
 
 - **Frontend Only**: This project does not include any backend logic or database integration. It is intended as a UI template or starting point for a registration flow in a mobile application.
 
-## Contributing
-
-If you wish to contribute, please fork the repository and submit a pull request. We welcome all contributions to improve the UI.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 
 
